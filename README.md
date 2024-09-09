@@ -1,0 +1,1 @@
+DOM manipulation, API fetching, basic typescript practice
